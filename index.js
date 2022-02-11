@@ -52,7 +52,7 @@ const promptUser = () => {
   ]);
 };
 
-const generateHTML = ({ title, description, installation, usage, contributing, tests, license, github, email }) =>
+const generateREADME = ({ title, description, installation, usage, contributing, tests, license, github, email }) =>
   `
   ## ${title}
   
@@ -90,8 +90,8 @@ const generateHTML = ({ title, description, installation, usage, contributing, t
 
 const init = () => {
   promptUser()
-    .then((answers) => fs.writeFileSync('index.md', generateHTML(answers)))
-    .then(() => console.log('Successfully wrote to index.html'))
+    .then((answers) => fs.writeFileSync('example.md', generateREADME(answers)))
+    .then(() => console.log('Successfully wrote to example.md'))
     .catch((err) => console.error(err));
 };
 
