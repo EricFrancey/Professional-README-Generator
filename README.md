@@ -4,6 +4,8 @@
 
 This is a homework project for University of Toronto: School of Continuing Studies.
 
+Demonstration can be found at /Demo/example.md.
+
 
 ## Link
 https://github.com/EricFrancey/Professional-README-Generator
