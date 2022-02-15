@@ -11,7 +11,7 @@ Demonstration can be found at /Demo/example.md.
 https://github.com/EricFrancey/Professional-README-Generator
 
 ## Screenshot
-  ![Alt text](Demo/MDGenDemo.gif?raw=true "Screenshot")
+  ![Alt text](Demo/MDGenVideo.mp4?raw=true "Screenshot")
 
   
 ## Credits
