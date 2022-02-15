@@ -10,8 +10,8 @@ Demonstration can be found at /Demo/example.md.
 ## Link
 https://github.com/EricFrancey/Professional-README-Generator
 
-## Screenshot
-  ![Alt text](Demo/MDGenVideo.mp4?raw=true "Screenshot")
+## Demo Video
+[Demo video link](https://drive.google.com/drive/folders/1wbxP_lNmt1MSiFOTydC7VeBsg0EibUaO)
 
   
 ## Credits
