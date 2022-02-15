@@ -2,7 +2,7 @@
   ## Title
   
   ## Description
-  Generate
+  Function
 
   ## Table of Contents
   * [Installation](#installation)
@@ -19,7 +19,7 @@
   Use it
 
   ## Contributing 
-  Me
+  I did
 
   ## Tests 
   Test it
@@ -28,7 +28,7 @@
   Apache License 2.0 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Questions
-  [GitHub](https://github.com/EricFrancey)
+  [GitHub](https://github.com/Github)
 
-  email
+  Email
   
