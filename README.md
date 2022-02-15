@@ -11,7 +11,7 @@ Demonstration can be found at /Demo/example.md.
 https://github.com/EricFrancey/Professional-README-Generator
 
 ## Demo Video
-[Demo video link](https://drive.google.com/drive/folders/1wbxP_lNmt1MSiFOTydC7VeBsg0EibUaO)
+[Demo video link](https://drive.google.com/file/d/1JSuAmujUQSJBKlTFZghVY6im2Rrt1LNN/view?usp=sharing)
 
   
 ## Credits
